@@ -1,4 +1,3 @@
-# Programa para introducir una contraseña de forma automática
 import pyautogui as pag
 from time import sleep
 
